@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    
+    <title>SpaceInvader</title>
+
+    <link rel="stylesheet" type="text/css" href="style.css">
+
+    <script src="game.js"></script>
+</head>
+
+
+<body id="game_pg">
+
+    <div class="v" style="left: 25%;"></div>
+
+    <div class="v" style="left: 75%;"></div>
+   
+   <div class="game">
+       <div class="game_over" id="g_o">
+          Game Over.
+       </div>
+       <div class="player" id="sp">
+
+       </div>
+       <div class="score" id="s_c">
+        Your Score: 0
+       </div>
+       <div class="enemy" id="enm">
+           
+       </div>
+       <div class="bullet" id="bull"></div>
+       <div id="hel">
+           Health: 3
+       </div>
+       <button class="buts" id="but" onclick="play()">Play Again</button>
+       <button style="margin-left: 80%; visibility: visible; background-color: rgba(173, 29, 29, 0.397); color: rgb(196, 238, 157); width: 100px; height: 50px; box-shadow: black; cursor: pointer;font-size: x-large; margin-top: 10px;" onclick="document.location = '../index.html'">Exit</button>
+   </div>
+
+   
+
+</body>
+</html>
