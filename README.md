@@ -7,6 +7,8 @@ This repo contains different HTML webpages.
 - Games Webpage
 - Tables
 - Forms
+- Graphics
+   * SVG
    
 
 Soon, I will be adding more files in it.:smile:
