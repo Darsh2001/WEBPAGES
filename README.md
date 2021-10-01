@@ -6,6 +6,7 @@ This repo contains different HTML webpages.
 - Restaurant Webpage
 - Games Webpage
 - Tables
+- Forms
    
 
 Soon, I will be adding more files in it.:smile:
