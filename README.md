@@ -9,6 +9,7 @@ This repo contains different HTML webpages.
 - Forms
 - Graphics
    * SVG
+   * Canvas
    
 
 Soon, I will be adding more files in it.:smile:
