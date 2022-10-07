@@ -2,6 +2,7 @@
 This repo contains different HTML webpages.
 
 - Birthday Webpage
+- Minion Boxshadow Effect Webpage
 - Poem Webpage
 - Restaurant Webpage
 - Games Webpage
